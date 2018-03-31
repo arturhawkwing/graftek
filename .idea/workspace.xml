@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73373d45-a20d-45a3-aa67-c334bbd5d133" name="Default" comment="" />
+    <list default="true" id="73373d45-a20d-45a3-aa67-c334bbd5d133" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +29,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-1" />
     <option name="width" value="1940" />
@@ -39,6 +47,16 @@
             <path>
               <item name="graftek" type="b2602c69:ProjectViewProjectNode" />
               <item name="graftek" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="graftek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graftek" type="462c0819:PsiDirectoryNode" />
+              <item name="graftek" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="graftek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graftek" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,6 +160,9 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/graftek/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
