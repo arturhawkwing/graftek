@@ -1,0 +1,8 @@
+ 
+appdirs
+Django
+django-extjs4
+django-reactjs
+psycopg2
+pytz
+virtualenv
